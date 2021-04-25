@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PSPTorchinim
+- 👀 I’m interested in C# Programming, GameDev and Music
+- 🌱 I’m currently learning C#, Java, PHP
